@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntroScreenApp</string>
+
+    <string name="btn_intro_next">Далее</string>
+    <string name="btn_intro_getstarted">Начать</string>
+
+</resources>

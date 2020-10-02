@@ -1,0 +1,8 @@
+<resources>
+    <string name="one_intro_title">Заголовок 1</string>
+    <string name="one_intro_description">Описание заголовка 1</string>
+    <string name="two_intro_title">Заголовок 2</string>
+    <string name="two_intro_description">Описание заголовка 2</string>
+    <string name="three_intro_title">Заголовок 3</string>
+    <string name="three_intro_description">Описание заголовка 3</string>
+</resources>

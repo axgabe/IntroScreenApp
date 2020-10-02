@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#fff</color>
+
+    <!-- Цвет для стиля кнопки -->
+
+    <color name="gradient_start_color">#121212</color>
+    <color name="gradient_end_color">#434343</color>
+
+    <color name="btn_intro_text_and_img_color">#000000</color>
+    <color name="btn_intro_text_and_img_color2">#fff</color>
+
+
+    <!-- Цвет для вкладок и стиля текста -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="tab_indicator_black">#000000</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+
+
+</resources>
